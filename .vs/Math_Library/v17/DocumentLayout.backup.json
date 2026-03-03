@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,10 +65,6 @@
               "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ICalculator.cs",
@@ -78,8 +74,7 @@
               "RelativeToolTip": "Math_Library\\ICalculator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T07:35:31.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T07:35:31.308Z"
             },
             {
               "$type": "Document",
@@ -101,7 +96,7 @@
               "RelativeDocumentMoniker": "math_library_client\\Program.cs",
               "ToolTip": "C:\\Math_Library\\math_library_client\\Program.cs",
               "RelativeToolTip": "math_library_client\\Program.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T14:40:29.358Z",
               "EditorCaption": ""
@@ -116,8 +111,7 @@
               "RelativeToolTip": "Math_Library\\Calculator.cs",
               "ViewState": "AgIAAGoAAAAAAAAAAADwv24AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T14:23:21.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T14:23:21.448Z"
             }
           ]
         }
