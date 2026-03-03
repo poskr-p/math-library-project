@@ -44,6 +44,8 @@ namespace Math_Library
             {
                 throw new ArgumentException("факториал отрицательного числа не определён");
             }
+            if (n > 20)  
+                throw new ArgumentException("факториал больше 20 вызывает переполнение");
 
             if (n == 0 || n == 1)
             {
