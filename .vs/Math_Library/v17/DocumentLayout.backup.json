@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Math_Library\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BC2C853-58B6-41E3-9956-5E658F48FBF8}|math_library_client\\math_library_client.csproj|c:\\math_library\\math_library_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BC2C853-58B6-41E3-9956-5E658F48FBF8}|math_library_client\\math_library_client.csproj|solutionrelative:math_library_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{33293980-E14F-475A-8F50-3DE53400C372}|Math_Library\\Math_Library.csproj|c:\\math_library\\math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33293980-E14F-475A-8F50-3DE53400C372}|Math_Library\\Math_Library.csproj|solutionrelative:math_library\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC2C853-58B6-41E3-9956-5E658F48FBF8}|math_library_client\\math_library_client.csproj|c:\\math_library\\math_library_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC2C853-58B6-41E3-9956-5E658F48FBF8}|math_library_client\\math_library_client.csproj|solutionrelative:math_library_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{33293980-E14F-475A-8F50-3DE53400C372}|Math_Library\\Math_Library.csproj|c:\\math_library\\math_library\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Math_Library\\math_library_client\\Program.cs",
               "RelativeDocumentMoniker": "math_library_client\\Program.cs",
@@ -107,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Math_Library\\Math_Library\\Calculator.cs",
               "RelativeDocumentMoniker": "Math_Library\\Calculator.cs",
               "ToolTip": "C:\\Math_Library\\Math_Library\\Calculator.cs",
               "RelativeToolTip": "Math_Library\\Calculator.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwDAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T14:23:21.448Z",
               "EditorCaption": ""
