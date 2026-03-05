@@ -27,5 +27,9 @@ namespace Math_Library
         bool IsPrime(int number);
 
         bool SolveQuadratic(double a, double b, double c, out double? x1, out double? x2);
+        double CircleArea(double radius);
+        double CelsiusToFahrenheit(double celsius);
+        double FahrenheitToCelsius(double fahrenheit);
+        double Hypotenuse(double a, double b);
     }
 }

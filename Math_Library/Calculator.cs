@@ -85,4 +85,30 @@ public class Calculator : ICalculator
     }
 
     #endregion
+
+   
+    public double CircleArea(double radius)
+    {
+        if (radius < 0)
+            throw new ArgumentException("радиус не может быть отрицательным");
+        return Math.PI * radius * radius;
+    }
+
+    public double CelsiusToFahrenheit(double celsius)
+    {
+        return celsius * 9 / 5 + 32;
+    }
+
+    
+    public double FahrenheitToCelsius(double fahrenheit)
+    {
+        return (fahrenheit - 32) * 5 / 9;
+    }
+
+    public double Hypotenuse(double a, double b)
+    {
+        if (a < 0 || b < 0)
+            throw new ArgumentException("катеты не могут быть отрицательными");
+        return Math.Sqrt(a * a + b * b);
+    }
 }
